@@ -8,6 +8,7 @@ A parser for the OPC UA UANodeSet XML schema.
 <dependency>
     <groupId>com.digitalpetri.opcua</groupId>
     <artifactId>uanodeset-parser</artifactId>
-    <version>0.3.0-SNAPSHOT</version>
+    <version>0.3.1-SNAPSHOT</version>
 </dependency>
 ```
+Credits to Kevin Herron of Eclipse Milo fame.
